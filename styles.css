@@ -1,0 +1,42 @@
+/* Importing */
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap');
+
+
+/* General Styles  */
+
+body{
+    background-color: black;
+    color: white;
+    font-family: kalam;
+}
+
+p{
+    text-align: justify;
+}
+
+
+/* Typography  */
+
+
+
+/* Header and Main Navigation */
+
+.container_style{
+    background-color: black;
+    width: min(100% - 4rem, 450px);
+    margin-inline: auto;
+    line-height:120%;
+    border: solid 3px rgb(240, 228, 255);
+}
+
+#hello{
+    font-size: 200%;
+    padding: 0px;
+    line-height: 100%;
+}
+
+#heading_p1{
+    font-size: 150%;
+    padding: 0px;
+    line-height: 100%;
+}
